@@ -19,6 +19,7 @@ c
         y1=0
         y2=h
 c       compound trapezoid limits 
+c cccccccccccccccccccccc
 c
 c                if(y.ge.y1.and.y.le.y2) then
 c                        if(x.ge.x1.and.x.le.x2) then
